@@ -170,7 +170,7 @@ var cnItems = {
     "speed": "速度",
     "Exported to clipboard": "已导出到剪贴板",
     "MAX": "满级",
-    "": "",
+    "Pulverizer": "粉碎机",
     "": "",
     "": "",
     "": "",
